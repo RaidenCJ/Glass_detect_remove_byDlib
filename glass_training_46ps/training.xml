@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='1.jpg'>
+    <box top='121' left='133' width='142' height='43'/>
+  </image>
+  <image file='10.jpg'>
+    <box top='182' left='180' width='146' height='53'/>
+  </image>
+  <image file='11.jpg'>
+    <box top='140' left='85' width='115' height='29'/>
+  </image>
+  <image file='12.jpg'>
+    <box top='102' left='109' width='82' height='32'/>
+  </image>
+  <image file='13.jpg'>
+    <box top='145' left='81' width='147' height='36'/>
+  </image>
+  <image file='14.jpg'>
+    <box top='129' left='103' width='107' height='27'/>
+  </image>
+  <image file='15.jpg'>
+    <box top='114' left='78' width='112' height='37'/>
+  </image>
+  <image file='16.jpg'>
+    <box top='238' left='132' width='246' height='65'/>
+  </image>
+  <image file='17.jpg'>
+    <box top='81' left='48' width='86' height='27'/>
+  </image>
+  <image file='18.jpg'>
+    <box top='223' left='146' width='226' height='69'/>
+  </image>
+  <image file='19.jpg'>
+    <box top='257' left='126' width='244' height='67'/>
+  </image>
+  <image file='2.jpg'>
+    <box top='256' left='212' width='186' height='62'/>
+  </image>
+  <image file='20.jpg'>
+    <box top='237' left='132' width='246' height='68'/>
+  </image>
+  <image file='21.jpg'>
+    <box top='81' left='213' width='85' height='23'/>
+  </image>
+  <image file='22.jpg'>
+    <box top='91' left='58' width='109' height='36'/>
+  </image>
+  <image file='23.jpg'>
+    <box top='70' left='123' width='175' height='70'/>
+  </image>
+  <image file='24.jpg'>
+    <box top='101' left='29' width='124' height='44'/>
+  </image>
+  <image file='25.jpg'>
+    <box top='101' left='80' width='83' height='27'/>
+  </image>
+  <image file='26.jpg'>
+    <box top='77' left='178' width='88' height='32'/>
+  </image>
+  <image file='27.jpg'>
+    <box top='91' left='37' width='135' height='40'/>
+  </image>
+  <image file='28.jpg'>
+    <box top='106' left='108' width='86' height='27'/>
+  </image>
+  <image file='29.jpg'>
+    <box top='120' left='67' width='110' height='27'/>
+  </image>
+  <image file='3.jpg'>
+    <box top='298' left='42' width='355' height='90'/>
+  </image>
+  <image file='30.jpg'>
+    <box top='22' left='53' width='238' height='81'/>
+  </image>
+  <image file='31.jpg'>
+    <box top='125' left='44' width='112' height='30'/>
+  </image>
+  <image file='32.jpg'>
+    <box top='113' left='104' width='124' height='53'/>
+  </image>
+  <image file='33.jpg'>
+    <box top='91' left='54' width='81' height='32'/>
+  </image>
+  <image file='34.jpg'>
+    <box top='119' left='59' width='103' height='39'/>
+  </image>
+  <image file='35.jpg'>
+    <box top='68' left='149' width='168' height='69'/>
+  </image>
+  <image file='36.jpg'>
+    <box top='88' left='31' width='136' height='51'/>
+  </image>
+  <image file='37.jpg'>
+    <box top='112' left='35' width='142' height='37'/>
+  </image>
+  <image file='38.jpg'>
+    <box top='93' left='177' width='86' height='35'/>
+  </image>
+  <image file='39.jpg'>
+    <box top='82' left='109' width='59' height='24'/>
+  </image>
+  <image file='4.jpg'>
+    <box top='117' left='106' width='138' height='48'/>
+  </image>
+  <image file='40.jpg'>
+    <box top='86' left='61' width='92' height='28'/>
+  </image>
+  <image file='41.jpg'>
+    <box top='173' left='126' width='172' height='47'/>
+  </image>
+  <image file='42.jpg'>
+    <box top='221' left='96' width='228' height='61'/>
+  </image>
+  <image file='43.jpg'>
+    <box top='204' left='146' width='217' height='49'/>
+  </image>
+  <image file='44.jpg'>
+    <box top='180' left='131' width='214' height='55'/>
+  </image>
+  <image file='45.jpg'>
+    <box top='117' left='309' width='140' height='41'/>
+  </image>
+  <image file='46.jpg'>
+    <box top='241' left='116' width='273' height='56'/>
+  </image>
+  <image file='5.jpg'>
+    <box top='97' left='128' width='118' height='48'/>
+  </image>
+  <image file='6.jpg'>
+    <box top='131' left='129' width='142' height='46'/>
+  </image>
+  <image file='7.jpg'>
+    <box top='56' left='57' width='64' height='26'/>
+  </image>
+  <image file='8.jpg'>
+    <box top='82' left='204' width='104' height='49'/>
+  </image>
+  <image file='9.jpg'>
+    <box top='116' left='142' width='129' height='39'/>
+  </image>
+</images>
+</dataset>
